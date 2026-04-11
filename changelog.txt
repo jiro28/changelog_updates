@@ -1,0 +1,31 @@
+Changelog:
+==========
+
+2026-04-11
+----------
+
+Kernel:
+- GPU overclocked to 802MHz / 844MHz
+- GPU underclocked to 150MHz
+- Improved performance and battery efficiency
+
+Root:
+- Included ReSukiSU v4.1.0
+- Included SuSFS v2.1.0
+
+System:
+- Fixed various sepolicy issues
+- Switched from Moto Dolby to Sony Dolby
+- Using Lunaris Dolby UI
+
+Features:
+- Added GameBar support
+- Updated GameBar UI
+
+Vendor / Power:
+- Use SM8250 HALs for vendor namespace imports
+- Added QCOM powerhint (kernel adaptation)
+
+Misc:
+- Synced with latest changes from @Duckyduck
+
