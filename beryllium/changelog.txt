@@ -1,6 +1,18 @@
 Changelog:
 ==========
 
+2026-07-11
+----------
+
+Device
+- Synced latest upstream sources  
+- MIUI Camera is now included by default  
+- Resolved multiple SELinux policy issues  
+
+Kernel
+- Merged Linux CIP and ST upstream patches (Updated kernel to Linux 5.10.258)
+- Backported CachyOS performance tunables
+
 2026-04-11
 ----------
 
