@@ -1,1 +1,10 @@
- 
+Changelog:
+=========
+
+2026-07-11
+----------
+
+- Synced latest upstream sources
+- Disabled Vulkan by default
+- Updated Game Bar (@kenway214)
+- Stabilized Lunaris Dolby 
