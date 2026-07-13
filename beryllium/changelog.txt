@@ -1,6 +1,14 @@
 Changelog:
 ==========
 
+2026-07-13
+----------
+
+- Fix LED Notification
+- Disabled Vulkan by default
+- Updated Game Bar (@kenway214)
+- Stabilized Lunaris Dolby 
+
 2026-07-11
 ----------
 
